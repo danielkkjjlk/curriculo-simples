@@ -1,0 +1,8 @@
+Configurando o git
+git config --global user.name danielkkjjlk
+git config --global user.email danihenriqueh10@gmail.com
+git clone https://github.com/danielkkjjlk/curriculo-simples.git
+Salvando no git
+git add.
+git commit -m "inicio dos códigos da página inicial"
+git push
